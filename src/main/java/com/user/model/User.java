@@ -35,3 +35,7 @@ public class User {
 }
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> f84a863b73789ed3ee6f9b043364154cd58690e0
