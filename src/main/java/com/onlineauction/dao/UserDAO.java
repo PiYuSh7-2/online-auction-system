@@ -7,6 +7,8 @@ public class UserDAO {
     private final String url = "jdbc:mysql://localhost:3306/online_auction";
     private final String username = "root";
     private final String password = "9142480211";
+    
+   
 
     public boolean registerUser(User user) {
         String query = "INSERT INTO users (username, password, email) VALUES (?, ?, ?)";
